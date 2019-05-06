@@ -1,0 +1,12 @@
+D:\Рабочий стол\MisLabs\Model\bin\Debug\Model.dll
+D:\Рабочий стол\MisLabs\Model\bin\Debug\Model.pdb
+D:\Рабочий стол\MisLabs\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\MisLabs\Model\obj\Debug\Model.dll
+D:\Рабочий стол\MisLabs\Model\obj\Debug\Model.pdb
+D:\Рабочий стол\MisLabs\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Эмир\Desktop\MisLabs\Model\bin\Debug\Model.dll
+C:\Users\Эмир\Desktop\MisLabs\Model\bin\Debug\Model.pdb
+C:\Users\Эмир\Desktop\MisLabs\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Эмир\Desktop\MisLabs\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Эмир\Desktop\MisLabs\Model\obj\Debug\Model.dll
+C:\Users\Эмир\Desktop\MisLabs\Model\obj\Debug\Model.pdb

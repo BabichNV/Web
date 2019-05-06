@@ -1,0 +1,46 @@
+﻿@using Model
+@model Account
+@{
+    ViewBag.Title = "Create";
+}
+
+<head>
+    <style>
+        td {
+            padding: 5px;
+            font-size: 18px;
+            text-align: left;
+        }
+    </style>
+</head>
+<h2>Новая запись</h2>
+<form method="post" action="/Home/Create">
+    <table>
+        <tr>
+            <td>
+                Название:
+            </td>
+            <td>
+                <input required class="form-control" name="Name" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Дата:
+            </td>
+            <td>
+                <input required class="form-control" type="date" name="Date" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Сумма:
+            </td>
+            <td>
+                <input required class="form-control" type="number" name="Amount" />
+            </td>
+        </tr>
+    </table>
+    <h3><input class="btn btn-success" type="submit" value="Создать" /></h3>
+</form>
+

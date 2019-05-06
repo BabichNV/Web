@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisLabs", "MisLabs\MisLabs.csproj", "{77467212-5C5F-4AAD-BD51-F1F8333A5FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRepository", "JsonRepository\JsonRepository.csproj", "{57935D2B-8268-4E70-9488-A243FED9AEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{2AC55E32-5CC7-4F61-A4E2-5568E622B2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77467212-5C5F-4AAD-BD51-F1F8333A5FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77467212-5C5F-4AAD-BD51-F1F8333A5FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77467212-5C5F-4AAD-BD51-F1F8333A5FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77467212-5C5F-4AAD-BD51-F1F8333A5FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57935D2B-8268-4E70-9488-A243FED9AEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57935D2B-8268-4E70-9488-A243FED9AEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57935D2B-8268-4E70-9488-A243FED9AEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57935D2B-8268-4E70-9488-A243FED9AEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC55E32-5CC7-4F61-A4E2-5568E622B2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC55E32-5CC7-4F61-A4E2-5568E622B2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC55E32-5CC7-4F61-A4E2-5568E622B2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC55E32-5CC7-4F61-A4E2-5568E622B2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7015CBD-645B-4F7A-8C56-EEA6788A9CF6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,345 @@
+﻿@using Model
+@model IEnumerable<Account>
+<head>
+    <style>
+        td {
+            text-align: center;
+            font-size: 14pt;
+            padding: 15px;
+        }
+
+        th {
+            text-align: center;
+            font-size: 16pt;
+            padding: 15px;
+        }
+    </style>
+</head>
+<script>
+    var typelimit = 0;
+    var accountsArray = [];
+    var editId = '';
+    var ldate = new Date();
+    var rdate = new Date();
+    document.addEventListener("DOMContentLoaded", ready);
+    function ready() {
+        document.getElementById('accountblock').style.display = "none";
+         GetAllAccounts();
+    }
+
+    function getDate(dt) {
+        return dt.substring(0, 10);
+    }
+    function getRusDate(dt) {
+        dt = getDate(dt);
+        dd = dt.split('-');
+        rd = '' + dd[2] + '.' + dd[1] + '.' + dd[0];
+        return rd;
+    }
+    function GetAllAccounts() {
+        accountsArray = [];
+        jQuery.ajax({
+            type: "GET",
+            url: "http://localhost:64765/api/HomeApi/GetAccounts",
+            success: function (data) {
+                jQuery.each(data, function (index, element) {
+                    if (index === 0) {
+                        ldate = element.Date;
+                        rdate = element.Date;
+                    }
+                    else {
+                        if (element.Date < ldate)
+                            ldate = element.Date;
+                        if (element.Date > rdate)
+                            rdate = element.Date;
+                    }
+                    var a = {};
+                    a.Id = element.Id;
+                    a.Date = element.Date;
+                    a.Name = element.Name;
+                    a.Amount = element.Amount;
+                    accountsArray.push(a);
+                });
+                document.getElementById('datefrom').value = getDate(ldate);
+                document.getElementById('dateto').value = getDate(rdate);
+                DisplayAccounts(accountsArray);
+            }
+        });
+    }
+
+    function DisplayAccounts(accounts) {
+        Hide();
+        var table = document.getElementById('generaltable');
+        for (var i = 1; i < table.rows.length;)
+            table.deleteRow(1);
+        for (var i = 0; i < accounts.length; i++) {
+            var Tr = document.createElement("tr");
+            var td1 = document.createElement("td");
+            var td2 = document.createElement("td");
+            var td3 = document.createElement("td");
+
+            td1.innerText = accounts[i].Name;;
+            Tr.appendChild(td1);
+
+            td2.innerText = getRusDate(accounts[i].Date);
+            Tr.appendChild(td2);
+
+            td3.innerText = accounts[i].Amount;
+            Tr.appendChild(td3);
+
+            var td4 = document.createElement("td");
+            var a1 = document.createElement("a");
+            a1.id = 'u' + accounts[i].Id;
+            a1.href = "#";
+            a1.onclick = function fun() {
+                Edit(this.id);
+            };
+            a1.text = 'Изменить';
+            td4.appendChild(a1);
+            Tr.appendChild(td4);
+
+            var td5 = document.createElement("td");
+            var a2 = document.createElement("a");
+            a2.id = 'd' + accounts[i].Id;
+            a2.href = "#";
+            a2.onclick = function fun() {
+                Delete(this.id);
+            };
+            a2.text = 'Удалить';
+
+            td5.appendChild(a2);
+            Tr.appendChild(td5);
+
+            table.appendChild(Tr);
+        }
+        document.getElementById('reportblock').innerText = 'Количество записей: ' + accounts.length;
+    }
+
+    function GetAccountsBetweenDates() {
+        var ld = getRusDate(document.getElementById('datefrom').value);
+        var rd = getRusDate(document.getElementById('dateto').value);
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:64765/api/HomeApi/GetAccountsBetweenDates?ldate=" + ld + "&rdate=" + rd,
+            success: function (data) {
+                accountsArray = [];
+                $.each(data, function (index, element) {
+                    var a = {};
+                    a.Id = element.Id;
+                    a.Date = element.Date;
+                    a.Name = element.Name;
+                    a.Amount = element.Amount;
+                    accountsArray.push(a);
+                });
+                DisplayAccounts(accountsArray);
+            }
+        });
+    }
+
+    function GetLastMonthAccounts() {
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:64765/api/HomeApi/GetLastMonthAccounts",
+            success: function (data) {
+                accountsArray = [];
+                $.each(data, function (index, element) {
+                    if (index === 0) {
+                        ldate = element.Date;
+                        rdate = element.Date;
+                    }
+                    else {
+                        if (element.Date < ldate)
+                            ldate = element.Date;
+                        if (element.Date > rdate)
+                            rdate = element.Date;
+                    }
+                    var a = {};
+                    a.Id = element.Id;
+                    a.Date = element.Date;
+                    a.Name = element.Name;
+                    a.Amount = element.Amount;
+                    accountsArray.push(a);
+                });
+                document.getElementById('datefrom').value = getDate(ldate);
+                document.getElementById('dateto').value = getDate(rdate);
+                DisplayAccounts(accountsArray);
+            }
+        });
+    }
+    function Delete(id) {
+        var Id = id.slice(1);
+        $.ajax({
+            type: "DELETE",
+            url: "http://localhost:64765/api/HomeApi/Delete?id=" + Id,
+            success: function () {
+                GetAllAccounts();
+            }
+        });
+    }
+
+    function CreateAccount() {
+        editId = '';
+        document.getElementById('newName').value = null;
+        document.getElementById('newDate').value = '';
+        document.getElementById('newAmount').value = null;
+        document.getElementById('Title').innerText = 'Добавить запись';
+        document.getElementById('btn').innerText = 'Добавить';
+        document.getElementById('accountblock').style.display = "block";
+    }
+
+    function Edit(id) {
+        var Id = id.slice(1);
+        $.ajax({
+            type: "GET",
+            url: "http://localhost:64765/api/HomeApi/GetAccount?id=" + Id,
+            success: function (data) {
+                editId = Id;
+                document.getElementById('newName').value = data.Name;
+                document.getElementById('newDate').value = getDate(data.Date);
+                document.getElementById('newAmount').value = data.Amount;
+                document.getElementById('Title').innerText = 'Редактировать запись';
+                document.getElementById('btn').innerText = 'Сохранить';
+                document.getElementById('accountblock').style.display = "block";
+            }
+        });
+    }
+
+    function Hide() {
+        document.getElementById('accountblock').style.display = "none";
+    }
+
+    function Submit() {
+        var account = {};
+        account.Id = editId;
+        account.Name = document.getElementById('newName').value;
+        account.Date = document.getElementById('newDate').value;
+        account.Amount = document.getElementById('newAmount').value;
+        if (account.Name === '' || account.Date === '' || account.Amount == '')
+            return;
+        if (editId !== '') {
+            $.ajax({
+                type: "PUT",
+                url: "http://localhost:64765/api/HomeApi/Update",
+                data: JSON.stringify(account),
+                contentType: "application/json;charset=utf-8",
+                success: function () {
+                    var ld = getRusDate(document.getElementById('datefrom').value);
+                    var rd = getRusDate(document.getElementById('dateto').value);
+                    $.ajax({
+                        type: "GET",
+                        url: "http://localhost:64765/api/HomeApi/GetAccountsBetweenDates?ldate=" + ld + "&rdate=" + rd,
+                        success: function (data) {
+                            accountsArray = [];
+                            $.each(data, function (index, element) {
+                                var a = {};
+                                a.Id = element.Id;
+                                a.Date = element.Date;
+                                a.Name = element.Name;
+                                a.Amount = element.Amount;
+                                accountsArray.push(a);
+                            });
+                            DisplayAccounts(accountsArray);
+                        }
+                    });
+                }
+            });
+        }
+        else {
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:64765/api/HomeApi/Create",
+                data: JSON.stringify(account),
+                contentType: "application/json;charset=utf-8",
+                success: function () {
+                    var ld = getRusDate(document.getElementById('datefrom').value);
+                    var rd = getRusDate(document.getElementById('dateto').value);
+                    $.ajax({
+                        type: "GET",
+                        url: "http://localhost:64765/api/HomeApi/GetAccountsBetweenDates?ldate=" + ld + "&rdate=" + rd,
+                        success: function (data) {
+                            accountsArray = [];
+                            $.each(data, function (index, element) {
+                                var a = {};
+                                a.Id = element.Id;
+                                a.Date = element.Date;
+                                a.Name = element.Name;
+                                a.Amount = element.Amount;
+                                accountsArray.push(a);
+                            });
+                            DisplayAccounts(accountsArray);
+                        }
+                    });
+                }
+            });
+        }
+        Hide();
+    }
+
+    function DisplayAllAccounts() {
+        GetAllAccounts();
+    }
+</script>
+<body>
+    <div>
+        <h4>
+            Отчет для диапазона дат с
+            <input type="date" id="datefrom" />
+            по
+            <input type="date" id="dateto" />
+            <button id="seel" class="btn btn-primary" onclick="GetAccountsBetweenDates()">Показать</button>
+        </h4>
+    </div>
+    <button class="btn btn-success" onclick="GetLastMonthAccounts()">Отчет за месяц</button>
+    <button class="btn btn-default" onclick="CreateAccount()">Добавить запись</button>
+    <button class="btn btn-info" onclick="DisplayAllAccounts()">Показать все записи</button>
+    <div id="accountblock">
+        <h2 id="Title"></h2>
+        <table id="accounttable">
+            <tr>
+                <td>
+                    Название:
+                </td>
+                <td>
+                    <input required class="form-control" id="newName" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Дата:
+                </td>
+                <td>
+                    <input required class="form-control" type="date" id="newDate" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Сумма:
+                </td>
+                <td>
+                    <input required class="form-control" type="number" id="newAmount" />
+                </td>
+            </tr>
+        </table>
+        <button type="button" class="btn btn-primary" id="btn" onclick="Submit()">Добавить</button>
+        <button type="button" class="btn btn-primary" id="btn" onclick="Hide()">Скрыть</button>
+        <br />
+        <hr />
+    </div>
+    <div>
+        <table id="generaltable">
+            <tr>
+                <th>
+                    Название
+                </th>
+                <th>
+                    Дата
+                </th>
+                <th>
+                    Сумма
+                </th>
+            </tr>
+        </table>
+        <div id="reportblock">
+        </div>
+    </div>
+</body>

@@ -1,0 +1,333 @@
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ApplicationInsights.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\MisLabs.dll.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\MisLabs.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\MisLabs.pdb
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csc.exe
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csc.exe.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csc.rsp
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csi.exe
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csi.exe.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\csi.rsp
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.AppContext.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Console.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.IO.Compression.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Claims.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.ValueTuple.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\vbc.exe
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\vbc.exe.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\vbc.rsp
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Antlr3.Runtime.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.Web.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Newtonsoft.Json.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Helpers.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Mvc.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Optimization.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Razor.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\WebGrease.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Helpers.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Mvc.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Optimization.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.Razor.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Newtonsoft.Json.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Antlr3.Runtime.pdb
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.AI.Web.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\obj\Debug\MisLabs.csprojAssemblyReference.cache
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CoreCompileInputs.cache
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CopyComplete
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\obj\Debug\MisLabs.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\obj\Debug\MisLabs.pdb
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\JsonRepository.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Model.dll
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\JsonRepository.pdb
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Model.pdb
+C:\Users\Эмир\Desktop\MisLabs\MisLabs\bin\Newtonsoft.Json.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\ApplicationInsights.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\MisLabs.dll.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\MisLabs.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\MisLabs.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csc.exe
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csc.exe.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csc.rsp
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csi.exe
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csi.exe.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\csi.rsp
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.AppContext.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Collections.Immutable.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Console.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.Process.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.IO.Compression.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.IO.Pipes.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Reflection.Metadata.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.AccessControl.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Claims.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Threading.Thread.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.ValueTuple.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\vbc.exe
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\vbc.exe.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\vbc.rsp
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe
+D:\Рабочий стол\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe.config
+D:\Рабочий стол\MisLabs\MisLabs\bin\Antlr3.Runtime.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\JsonRepository.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.Web.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.ApplicationInsights.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.Web.Infrastructure.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Model.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\Newtonsoft.Json.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Net.Http.Formatting.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Helpers.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Http.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Http.WebHost.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Mvc.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Optimization.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Razor.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\WebGrease.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\JsonRepository.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\Model.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\Newtonsoft.Json.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\Newtonsoft.Json.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Net.Http.Formatting.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Http.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Http.WebHost.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Helpers.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Mvc.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Optimization.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.Razor.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Antlr3.Runtime.pdb
+D:\Рабочий стол\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.AI.Web.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Http.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Helpers.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Mvc.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Optimization.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.Razor.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.WebPages.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Рабочий стол\MisLabs\MisLabs\obj\Debug\MisLabs.csprojAssemblyReference.cache
+D:\Рабочий стол\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CopyComplete
+D:\Рабочий стол\MisLabs\MisLabs\obj\Debug\MisLabs.dll
+D:\Рабочий стол\MisLabs\MisLabs\obj\Debug\MisLabs.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ApplicationInsights.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\MisLabs.dll.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\MisLabs.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\MisLabs.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csc.exe
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csc.exe.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csc.rsp
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csi.exe
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csi.exe.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\csi.rsp
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.AppContext.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Collections.Immutable.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Console.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.Process.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.IO.Compression.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.IO.Pipes.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Reflection.Metadata.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.AccessControl.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Claims.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Threading.Thread.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.ValueTuple.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\vbc.exe
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\vbc.exe.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\vbc.rsp
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\roslyn\VBCSCompiler.exe.config
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Antlr3.Runtime.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\JsonRepository.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.Web.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.ApplicationInsights.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.Web.Infrastructure.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Model.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Newtonsoft.Json.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Net.Http.Formatting.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Helpers.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Http.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Http.WebHost.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Mvc.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Optimization.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Razor.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\WebGrease.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\JsonRepository.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Model.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Newtonsoft.Json.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Newtonsoft.Json.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Net.Http.Formatting.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Http.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Http.WebHost.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Helpers.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Mvc.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Optimization.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.Razor.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.Deployment.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Web.WebPages.Razor.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Antlr3.Runtime.pdb
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.DependencyCollector.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.WindowsServer.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.AI.Web.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Http.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Helpers.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Mvc.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Optimization.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.Razor.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.WebPages.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\obj\Debug\MisLabs.csprojAssemblyReference.cache
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\obj\Debug\MisLabs.csproj.CopyComplete
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\obj\Debug\MisLabs.dll
+D:\Рабочий стол\ВУЗ\7 семестр\МИС\Лаба 4\MisLabs\MisLabs\obj\Debug\MisLabs.pdb

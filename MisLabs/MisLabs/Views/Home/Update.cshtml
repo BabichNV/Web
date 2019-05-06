@@ -1,0 +1,47 @@
+﻿@using Model
+@model Account
+@{
+    ViewBag.Title = "Update";
+}
+
+<head>
+    <style>
+        td {
+            padding: 5px;
+            font-size: 18px;
+            text-align: left;
+        }
+    </style>
+</head>
+<h2>Редактировать запись</h2>
+<form method="post" action="/Home/Update">
+    <input hidden name="Id" value="@Model.Id" />
+    <table>
+        <tr>
+            <td>
+                Название:
+            </td>
+            <td>
+                <input required class="form-control" name="Name" value="@Model.Name" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Дата:
+            </td>
+            <td>
+                <input required class="form-control" type="date" name="Date" value="@Model.Date.Year-@Model.Date.Month-@Model.Date.Day" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Сумма:
+            </td>
+            <td>
+                <input required class="form-control" type="number" name="Amount" value="@Model.Amount" />
+            </td>
+        </tr>
+    </table>
+    <h3><input class="btn btn-success" type="submit" value="Сохранить" /></h3>
+</form>
+

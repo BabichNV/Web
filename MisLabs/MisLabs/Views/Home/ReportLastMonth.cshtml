@@ -1,0 +1,67 @@
+﻿@using Model
+@model IEnumerable<Account>
+@{
+    ViewBag.Title = "ReportLastMonth";
+}
+<head>
+    <style>
+        td {
+            text-align: center;
+            font-size: 14pt;
+            padding: 15px;
+        }
+
+        th {
+            text-align: center;
+            font-size: 16pt;
+            padding: 15px;
+        }
+    </style>
+</head>
+<h2>Отчет за месяц</h2>
+<div>
+    <table>
+        <tr>
+            <th>
+                Название
+            </th>
+            <th>
+                Дата
+            </th>
+            <th>
+                Сумма
+            </th>
+        </tr>
+        @foreach (var m in @Model)
+        {
+            <tr>
+                <td>
+                    @m.Name
+                </td>
+                <td>
+                    @m.Date.ToShortDateString()
+                </td>
+                <td>
+                    @m.Amount
+                </td>
+                <td>
+                    <div>
+                        <a href="/Home/Update?id=@m.Id">Изменить</a>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <a href="/Home/Delete?id=@m.Id">Удалить</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </table>
+    <div>
+        <h3>Всего записей: @Model.Count()</h3>
+    </div>
+    <div>
+        <h3>Итоговая сумма: @Model.Sum(a => a.Amount)</h3>
+    </div>
+</div>
+

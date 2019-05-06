@@ -1,0 +1,70 @@
+﻿@using MisLabs.Models
+@model ReportViewModel
+@{
+    ViewBag.Title = "ReportLastMonth";
+}
+<head>
+    <style>
+        td {
+            text-align: center;
+            font-size: 14pt;
+            padding: 15px;
+        }
+
+        th {
+            text-align: center;
+            font-size: 16pt;
+            padding: 15px;
+        }
+    </style>
+</head>
+<h2>
+    Отчет за выбранный диапазон дат
+    @Model.Title
+</h2>
+<div>
+    <table>
+        <tr>
+            <th>
+                Название
+            </th>
+            <th>
+                Дата
+            </th>
+            <th>
+                Сумма
+            </th>
+        </tr>
+        @foreach (var m in @Model.Bills)
+        {
+            <tr>
+                <td>
+                    @m.Name
+                </td>
+                <td>
+                    @m.Date.ToShortDateString()
+                </td>
+                <td>
+                    @m.Amount
+                </td>
+                <td>
+                    <div>
+                        <a href="/Home/Update?id=@m.Id">Изменить</a>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                        <a href="/Home/Delete?id=@m.Id">Удалить</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </table>
+    <div>
+        <h3>Всего записей: @Model.Bills.Count()</h3>
+    </div>
+    <div>
+        <h3>Итоговая сумма: @Model.Bills.Sum(a => a.Amount)</h3>
+    </div>
+</div>
+
